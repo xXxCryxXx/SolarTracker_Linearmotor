@@ -1,16 +1,14 @@
 # SolarTracker_Linearmotor
-Hierbei handelt es sich um ein 2-Achsen Solartracker der mit Linearmotoren betrieben wird.
+Hierbei handelt es sich um einen 2-Achsen Solartracker, der mit Linearmotoren betrieben wird.
 
+## Die Linearmotoren besitzen von Haus aus zwei Endkontaktschalter, durch welche die Bewegungsrichtung, positiv und negativ, limitiert wird
+Mein Ziel ist es, das System so ausgetüftelt wie nur möglich zu entwickeln und für jeden zugänglich zu machen.
+Es soll für jedes Budget etwas dabei sein, sei es der Code oder die Hardwareteile. 
 
+In meiner aktuellen Lage habe ich die Effizienz meiner Panels über den Tag um 35% gesteigert - sprich: MEHR ERTRAG!
 
-## Die Linearmotoren besitzten von Haus aus zwei Endkontaktschalter, diese Limitieren die bewegungsrichtung - Positiv sowie Negativ -
+Bitte vergesst nicht, dass der Ertrag nichts mit der Peakleistung zu tun hat. Man bekommt durch die Ausrichtung der Panels
+eine Ertragssteigerung, da sie immer optimal ausgerichtet sind. Diese Optimierung bewirkt eine längere "Peakleistung" eurer Panels.
 
-Mein Ziel ist es das System so ausgetüftelt wie nur möglich zu entwickeln und für jeden Zugänglich zu machen.
-Es soll für jedes budget etwas dabei sein, sei es der Code oder die Hardwareteile. 
+Zu einem späteren Zeitpunkt werde ich noch eine Liste der benötigten Teile bereitstellen.
 
-In meiner aktuellen lage habe ich die Effizienz meiner Panele über den Tag um 35% (MEHR ERTRAG) gesteigert.
-
-Bitte vergesst nicht das der ertrag nichts mit der Peakleistung zu tun hat. Man bekommt durch die Ausrichtung der Panele
-eine ertragssteigerung und zwar das sie immer optimal ausgerichtet sind somit habt ihr eine Längere "Peakleistung" eurer Panele.
-
-Ich werde im Laufe der Zeit ebenfalls eine Liste hinzufügen für die benötigten teile.
